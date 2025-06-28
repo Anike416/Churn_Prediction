@@ -21,7 +21,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/Article-Web-Scraping.git
+     git clone https://github.com/Anike416/Churn_Prediction.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -37,10 +37,6 @@ Follow these steps to install and set up the project directly from the GitHub re
        ```
 
 4. **Install Dependencies**
-   - Navigate to the project directory:
-     ```
-     cd [project_directory]
-     ```
    - Run the following command to install project dependencies:
      ```
      pip install -r requirements.txt
